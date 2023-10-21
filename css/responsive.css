@@ -1,0 +1,12 @@
+@media screen and (max-width: 793px) {
+    .localizacao,
+    .data,
+    .instagram {
+        transform: scale(0.8);
+    }
+
+    .redes-sociais {
+        margin-top: -25px;
+    }
+}
+
